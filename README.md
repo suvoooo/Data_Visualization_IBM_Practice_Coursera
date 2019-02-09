@@ -1,2 +1,2 @@
 # Data_Visualization_IBM_Practice_Coursera
-### Contains some of the useful techniques taught in [Coursera](https://www.coursera.org/learn/python-for-data-visualization)
+### Contains some of the useful data visualization techniques taught in [Coursera](https://www.coursera.org/learn/python-for-data-visualization) using Canada immigration data. 
